@@ -1,0 +1,2 @@
+# ansible-play
+learning ansible
